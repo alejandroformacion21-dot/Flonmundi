@@ -51,3 +51,26 @@ PEDIDOS
 PEDFM_ES01052026_89878_0534.PDF
 PED pedido+ FM florimendi +Sede+ Fecha+ n ºcliente + nºpedido
 
+FLUJO DE TRABAJO 
+- Issue para pedir documento o modificacion-- tecnico
+- Crea una rama para el documento segun tipo--- nuevas- rosas
+- edita el docuemnto por parte de del semillero
+- Abre un pull request (peticion de aprobacion)
+-  El verificador/responsable aprueba y hace rerge
+-  Le colula de la etiqueta de publicado y lo coloca en la carpeta de documentos publicos.
+-  estado inicial del documento
+-  que actor tiene que hacer
+-   que tiene que hace (tarea,condiciones,plazo)
+-   y cual seria el estado siguiente
+
+Estados del docuemntos- ciclo de vida de docuemnto
+BORRADOR
+ENREVISION
+APROBADO 
+ARCHIVADO
+ELIMINADO (no llegaria a ponerse)
+
+                              Director                                reponsablearea                   editor                           externo
+Pedido:                       VER                                     VER/EDITAR                           CREAR                           NADA
+Guia tecnica                  VER                                       VER                                CREAR /EDITAR                     VER 
+contrato                       EDITAR (Aprobar)                          VER                                    No                           No
